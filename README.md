@@ -1,1 +1,1 @@
-# covid-cases-per-country
+# covid-tracking
